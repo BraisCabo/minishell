@@ -104,7 +104,7 @@ cd minishell
 make
 ```
 
-### Basic Usage
+## Basic Usage
 
 As per the norm, this project compiles an executable called ``minishell`` , and it is compiled using the ``.c`` files inside the folder
 
