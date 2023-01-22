@@ -99,7 +99,7 @@ Make sure gcc compiler is installed:
 * Cloning the Repositories
 
 ```shell
-git clone github.com/BraisCabo/minishell
+git clone https://github.com/BraisCabo/minishell
 cd minishell
 make
 ```
