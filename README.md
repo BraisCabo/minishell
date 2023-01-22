@@ -1,6 +1,6 @@
 # minishell
 
-This project is all about recreating the shell, taking bash (Bourne Again Shell) as reference. This was a couple project, and I worked with [@lord-47](https://github.com/lord-47) :)
+This project was for the operating systems course in the software engineering degree at the Universidad Rey Juan Carlos. It is all about recreating the shell, taking bash (Bourne Again Shell) as reference. This was a couple project, and I worked with [@lord-47](https://github.com/lord-47) :)
 
 ### What the Shell?
 
