@@ -117,6 +117,12 @@ chmod u+x minishell
 
 After this the minishell should be running and you can use all its functionalities. If you want to close it execute the exit command.
 
+## Usage Example
+
+This is a demo of the minishell running:
+
+![minishell](/Images/exampleImage.png)
+
 ## Summary
 
 This was one of our biggest project yet, and it sure was challenging. Co-developing can be tricky but we had fun in the process and learn a lot about concurrent programming :)
